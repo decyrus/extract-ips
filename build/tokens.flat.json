@@ -1,0 +1,33 @@
+{
+  "base": {
+    "space.small": "6px",
+    "space.medium": "12px",
+    "space.large": "20px",
+    "space.section": "24px",
+    "font.body": "13px",
+    "font.small": "11px",
+    "font.title": "24px",
+    "font.heading": "15px",
+    "size.windowWidth": "1100px",
+    "size.windowHeight": "760px",
+    "size.minWidth": "1000px",
+    "size.minHeight": "680px",
+    "size.sidebar": "290px",
+    "size.row": "36px",
+    "size.button": "30px",
+    "size.exportHeight": "112px",
+    "size.checkbox": "28px",
+    "size.ipColumn": "150px",
+    "size.portColumn": "110px",
+    "size.protocolColumn": "70px",
+    "size.interfaceColumn": "100px",
+    "size.appIcon": "24px",
+    "size.brandIcon": "56px",
+    "size.language": "92px",
+    "size.radius": "14px",
+    "size.hairline": "1px",
+    "size.statusDot": "8px",
+    "color.accent": "#087f78",
+    "color.accentDark": "#67d8c5"
+  }
+}

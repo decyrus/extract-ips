@@ -1,0 +1,126 @@
+{
+  "space": {
+    "small": {
+      "$type": "dimension",
+      "$value": "6px"
+    },
+    "medium": {
+      "$type": "dimension",
+      "$value": "12px"
+    },
+    "large": {
+      "$type": "dimension",
+      "$value": "20px"
+    },
+    "section": {
+      "$type": "dimension",
+      "$value": "24px"
+    }
+  },
+  "font": {
+    "body": {
+      "$type": "dimension",
+      "$value": "13px"
+    },
+    "small": {
+      "$type": "dimension",
+      "$value": "11px"
+    },
+    "title": {
+      "$type": "dimension",
+      "$value": "24px"
+    },
+    "heading": {
+      "$type": "dimension",
+      "$value": "15px"
+    }
+  },
+  "size": {
+    "windowWidth": {
+      "$type": "dimension",
+      "$value": "1100px"
+    },
+    "windowHeight": {
+      "$type": "dimension",
+      "$value": "760px"
+    },
+    "minWidth": {
+      "$type": "dimension",
+      "$value": "1000px"
+    },
+    "minHeight": {
+      "$type": "dimension",
+      "$value": "680px"
+    },
+    "sidebar": {
+      "$type": "dimension",
+      "$value": "290px"
+    },
+    "row": {
+      "$type": "dimension",
+      "$value": "36px"
+    },
+    "button": {
+      "$type": "dimension",
+      "$value": "30px"
+    },
+    "exportHeight": {
+      "$type": "dimension",
+      "$value": "112px"
+    },
+    "checkbox": {
+      "$type": "dimension",
+      "$value": "28px"
+    },
+    "ipColumn": {
+      "$type": "dimension",
+      "$value": "150px"
+    },
+    "portColumn": {
+      "$type": "dimension",
+      "$value": "110px"
+    },
+    "protocolColumn": {
+      "$type": "dimension",
+      "$value": "70px"
+    },
+    "interfaceColumn": {
+      "$type": "dimension",
+      "$value": "100px"
+    },
+    "appIcon": {
+      "$type": "dimension",
+      "$value": "24px"
+    },
+    "brandIcon": {
+      "$type": "dimension",
+      "$value": "56px"
+    },
+    "language": {
+      "$type": "dimension",
+      "$value": "92px"
+    },
+    "radius": {
+      "$type": "dimension",
+      "$value": "14px"
+    },
+    "hairline": {
+      "$type": "dimension",
+      "$value": "1px"
+    },
+    "statusDot": {
+      "$type": "dimension",
+      "$value": "8px"
+    }
+  },
+  "color": {
+    "accent": {
+      "$type": "color",
+      "$value": "#087f78"
+    },
+    "accentDark": {
+      "$type": "color",
+      "$value": "#67d8c5"
+    }
+  }
+}
